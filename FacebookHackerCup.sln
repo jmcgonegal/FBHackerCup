@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleSquares", "FacebookHackerCup\DoubleSquares.csproj", "{B43A2B50-B2D9-4802-8A32-7D98DB96605A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudiousStudent", "StudiousStudent\StudiousStudent.csproj", "{47EEF59C-C4B8-4A93-926D-3A84C82357D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43A2B50-B2D9-4802-8A32-7D98DB96605A}.Debug|x86.ActiveCfg = Debug|x86
+		{B43A2B50-B2D9-4802-8A32-7D98DB96605A}.Debug|x86.Build.0 = Debug|x86
+		{B43A2B50-B2D9-4802-8A32-7D98DB96605A}.Release|x86.ActiveCfg = Release|x86
+		{B43A2B50-B2D9-4802-8A32-7D98DB96605A}.Release|x86.Build.0 = Release|x86
+		{47EEF59C-C4B8-4A93-926D-3A84C82357D1}.Debug|x86.ActiveCfg = Debug|x86
+		{47EEF59C-C4B8-4A93-926D-3A84C82357D1}.Debug|x86.Build.0 = Debug|x86
+		{47EEF59C-C4B8-4A93-926D-3A84C82357D1}.Release|x86.ActiveCfg = Release|x86
+		{47EEF59C-C4B8-4A93-926D-3A84C82357D1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
